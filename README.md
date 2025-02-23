@@ -107,7 +107,7 @@ If you found this extension helpful:
 Need help? Reach out:
 - Create an issue on GitHub
 - Connect on LinkedIn
-- Email: [jayvegad10@gmail.com]
+- Email: jayvegad10@gmail.com
 
 ---
 
