@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "author":"Jay Vegad",
+  "author": "Jay Vegad",
   "name": "Product Review Checker (By Jay vegad)",
   "version": "1.0",
   "description": "When buying any product online, reviews play a crucial role in decision-making. However, with a large number of fake or manipulated reviews, identifying genuine reviews is essential. Here's how we can build a Genuine Product Review Identifier to help users find the best products based on authentic reviews.",

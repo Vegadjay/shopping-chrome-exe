@@ -5,12 +5,11 @@ A powerful Chrome extension that helps online shoppers identify genuine product 
 ## 🌟 Images
 
 1. Basic Page for that extenstion.
-![Home page](./images/home.png)
-
+   ![Home page](./images/home.png)
 
 2. Fetch all product reviews.
-![Fetch product review page1 ](./images/review.png)
-![Fetch product review page2 ](./images/review2.png)
+   ![Fetch product review page1 ](./images/review.png)
+   ![Fetch product review page2 ](./images/review2.png)
 
 ## 🌟 Features
 
@@ -21,13 +20,16 @@ A powerful Chrome extension that helps online shoppers identify genuine product 
 ## 📥 Installation Guide
 
 ### Method 1: Install from Chrome Web Store
+
 1. Visit the [Chrome Web Store](https://chrome.google.com/webstore)
 2. Search for "Product Review Checker"
 3. Click "Add to Chrome"
 4. Confirm the installation by clicking "Add extension"
 
 ### Method 2: Manual Installation (Developer Mode)
+
 1. Download the extension:
+
    - Go to [GitHub Releases](https://github.com/Vegadjay/shopping-chrome-exe/releases)
    - Download the latest release `.zip` file
    - Extract the downloaded file to a folder on your computer
@@ -42,11 +44,13 @@ A powerful Chrome extension that helps online shoppers identify genuine product 
 ## 🎯 How to Use
 
 1. **After Installation**:
+
    - Click the extension icon in your Chrome toolbar
    - Pin the extension for easy access (optional)
    - Review and adjust settings if needed
 
 2. **On Shopping Websites**:
+
    - Browse any supported shopping website
    - The extension automatically activates
    - View review analysis by clicking the extension icon
@@ -72,12 +76,14 @@ A powerful Chrome extension that helps online shoppers identify genuine product 
 ## ❗ Troubleshooting
 
 1. **Extension Not Working?**
+
    - Ensure the extension is enabled
    - Check if you're on a supported website
    - Try refreshing the page
    - Clear browser cache if needed
 
 2. **Icon Not Visible?**
+
    - Click the puzzle piece icon in Chrome toolbar
    - Find "Product Review Checker"
    - Click the pin icon to make it visible
@@ -91,12 +97,14 @@ A powerful Chrome extension that helps online shoppers identify genuine product 
 ## 👨‍💻 Author
 
 **Jay Vegad**
+
 - GitHub: [@Vegadjay](https://github.com/Vegadjay)
 - LinkedIn: [Jay Vegad](https://www.linkedin.com/in/jayvegad)
 
 ## 🌟 Support
 
 If you found this extension helpful:
+
 - ⭐ Star the GitHub repo
 - 📢 Share with friends and colleagues
 - 💡 Suggest new features
@@ -105,6 +113,7 @@ If you found this extension helpful:
 ## 📞 Contact & Support
 
 Need help? Reach out:
+
 - Create an issue on GitHub
 - Connect on LinkedIn
 - Email: jayvegad10@gmail.com
